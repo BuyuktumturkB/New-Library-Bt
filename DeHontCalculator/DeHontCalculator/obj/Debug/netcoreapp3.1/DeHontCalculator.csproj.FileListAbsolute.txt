@@ -1,0 +1,13 @@
+C:\Users\cahes\source\repos\DeHontCalculator\DeHontCalculator\obj\Debug\netcoreapp3.1\DeHontCalculator.csprojAssemblyReference.cache
+C:\Users\cahes\source\repos\DeHontCalculator\DeHontCalculator\obj\Debug\netcoreapp3.1\DeHontCalculator.AssemblyInfoInputs.cache
+C:\Users\cahes\source\repos\DeHontCalculator\DeHontCalculator\obj\Debug\netcoreapp3.1\DeHontCalculator.AssemblyInfo.cs
+C:\Users\cahes\source\repos\DeHontCalculator\DeHontCalculator\obj\Debug\netcoreapp3.1\DeHontCalculator.csproj.CoreCompileInputs.cache
+C:\Users\cahes\source\repos\DeHontCalculator\DeHontCalculator\bin\Debug\netcoreapp3.1\DeHontCalculator.exe
+C:\Users\cahes\source\repos\DeHontCalculator\DeHontCalculator\bin\Debug\netcoreapp3.1\DeHontCalculator.deps.json
+C:\Users\cahes\source\repos\DeHontCalculator\DeHontCalculator\bin\Debug\netcoreapp3.1\DeHontCalculator.runtimeconfig.json
+C:\Users\cahes\source\repos\DeHontCalculator\DeHontCalculator\bin\Debug\netcoreapp3.1\DeHontCalculator.runtimeconfig.dev.json
+C:\Users\cahes\source\repos\DeHontCalculator\DeHontCalculator\bin\Debug\netcoreapp3.1\DeHontCalculator.dll
+C:\Users\cahes\source\repos\DeHontCalculator\DeHontCalculator\bin\Debug\netcoreapp3.1\DeHontCalculator.pdb
+C:\Users\cahes\source\repos\DeHontCalculator\DeHontCalculator\obj\Debug\netcoreapp3.1\DeHontCalculator.dll
+C:\Users\cahes\source\repos\DeHontCalculator\DeHontCalculator\obj\Debug\netcoreapp3.1\DeHontCalculator.pdb
+C:\Users\cahes\source\repos\DeHontCalculator\DeHontCalculator\obj\Debug\netcoreapp3.1\DeHontCalculator.genruntimeconfig.cache
