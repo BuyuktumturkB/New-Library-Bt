@@ -1,0 +1,13 @@
+C:\Users\cahes\source\repos\Tombala\Tombala\bin\Debug\netcoreapp3.1\Tombala.exe
+C:\Users\cahes\source\repos\Tombala\Tombala\bin\Debug\netcoreapp3.1\Tombala.deps.json
+C:\Users\cahes\source\repos\Tombala\Tombala\bin\Debug\netcoreapp3.1\Tombala.runtimeconfig.json
+C:\Users\cahes\source\repos\Tombala\Tombala\bin\Debug\netcoreapp3.1\Tombala.runtimeconfig.dev.json
+C:\Users\cahes\source\repos\Tombala\Tombala\bin\Debug\netcoreapp3.1\Tombala.dll
+C:\Users\cahes\source\repos\Tombala\Tombala\bin\Debug\netcoreapp3.1\Tombala.pdb
+C:\Users\cahes\source\repos\Tombala\Tombala\obj\Debug\netcoreapp3.1\Tombala.csprojAssemblyReference.cache
+C:\Users\cahes\source\repos\Tombala\Tombala\obj\Debug\netcoreapp3.1\Tombala.AssemblyInfoInputs.cache
+C:\Users\cahes\source\repos\Tombala\Tombala\obj\Debug\netcoreapp3.1\Tombala.AssemblyInfo.cs
+C:\Users\cahes\source\repos\Tombala\Tombala\obj\Debug\netcoreapp3.1\Tombala.csproj.CoreCompileInputs.cache
+C:\Users\cahes\source\repos\Tombala\Tombala\obj\Debug\netcoreapp3.1\Tombala.dll
+C:\Users\cahes\source\repos\Tombala\Tombala\obj\Debug\netcoreapp3.1\Tombala.pdb
+C:\Users\cahes\source\repos\Tombala\Tombala\obj\Debug\netcoreapp3.1\Tombala.genruntimeconfig.cache
