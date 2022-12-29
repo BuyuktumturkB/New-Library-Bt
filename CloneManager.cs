@@ -6,7 +6,10 @@ public class CloneManager : MonoBehaviour
 {
 	public GameObject clone;
 	private GameObject Aclone;
-	
+	public float clonez;
+	public float clonex;
+	public float cloney;
+
 	// Start is called before the first frame update
 
 
@@ -18,9 +21,7 @@ public class CloneManager : MonoBehaviour
 	void CoppyandDelete()
 
 	{
-		float clonex = clone.transform.position.x +2f;
-		float clonez = clone.transform.position.z + 1f;
-		float cloney = 0;
+		
 		
 		if (Input.GetKeyDown("c") )
 		{
