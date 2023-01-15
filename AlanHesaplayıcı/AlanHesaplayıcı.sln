@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlanHesaplayıcı", "AlanHesaplayıcı\AlanHesaplayıcı.csproj", "{CE42C88E-12BA-4D93-A912-5705610734CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE42C88E-12BA-4D93-A912-5705610734CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE42C88E-12BA-4D93-A912-5705610734CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE42C88E-12BA-4D93-A912-5705610734CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE42C88E-12BA-4D93-A912-5705610734CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5DCB232-4A78-4DF9-8B92-F12E4AD4A2D2}
+	EndGlobalSection
+EndGlobal

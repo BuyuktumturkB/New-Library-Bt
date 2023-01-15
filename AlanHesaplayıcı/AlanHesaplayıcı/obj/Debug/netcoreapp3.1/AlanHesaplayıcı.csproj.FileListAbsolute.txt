@@ -1,0 +1,14 @@
+C:\Users\cahes\source\repos\AlanHesaplayıcı\AlanHesaplayıcı\bin\Debug\netcoreapp3.1\AlanHesaplayıcı.exe
+C:\Users\cahes\source\repos\AlanHesaplayıcı\AlanHesaplayıcı\bin\Debug\netcoreapp3.1\AlanHesaplayıcı.deps.json
+C:\Users\cahes\source\repos\AlanHesaplayıcı\AlanHesaplayıcı\bin\Debug\netcoreapp3.1\AlanHesaplayıcı.runtimeconfig.json
+C:\Users\cahes\source\repos\AlanHesaplayıcı\AlanHesaplayıcı\bin\Debug\netcoreapp3.1\AlanHesaplayıcı.runtimeconfig.dev.json
+C:\Users\cahes\source\repos\AlanHesaplayıcı\AlanHesaplayıcı\bin\Debug\netcoreapp3.1\AlanHesaplayıcı.dll
+C:\Users\cahes\source\repos\AlanHesaplayıcı\AlanHesaplayıcı\bin\Debug\netcoreapp3.1\AlanHesaplayıcı.pdb
+C:\Users\cahes\source\repos\AlanHesaplayıcı\AlanHesaplayıcı\obj\Debug\netcoreapp3.1\AlanHesaplayıcı.csproj.AssemblyReference.cache
+C:\Users\cahes\source\repos\AlanHesaplayıcı\AlanHesaplayıcı\obj\Debug\netcoreapp3.1\AlanHesaplayıcı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cahes\source\repos\AlanHesaplayıcı\AlanHesaplayıcı\obj\Debug\netcoreapp3.1\AlanHesaplayıcı.AssemblyInfoInputs.cache
+C:\Users\cahes\source\repos\AlanHesaplayıcı\AlanHesaplayıcı\obj\Debug\netcoreapp3.1\AlanHesaplayıcı.AssemblyInfo.cs
+C:\Users\cahes\source\repos\AlanHesaplayıcı\AlanHesaplayıcı\obj\Debug\netcoreapp3.1\AlanHesaplayıcı.csproj.CoreCompileInputs.cache
+C:\Users\cahes\source\repos\AlanHesaplayıcı\AlanHesaplayıcı\obj\Debug\netcoreapp3.1\AlanHesaplayıcı.dll
+C:\Users\cahes\source\repos\AlanHesaplayıcı\AlanHesaplayıcı\obj\Debug\netcoreapp3.1\AlanHesaplayıcı.pdb
+C:\Users\cahes\source\repos\AlanHesaplayıcı\AlanHesaplayıcı\obj\Debug\netcoreapp3.1\AlanHesaplayıcı.genruntimeconfig.cache
