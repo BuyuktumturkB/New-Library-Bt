@@ -1,0 +1,7 @@
+C:\Users\cahes\source\repos\Param.net\Param.net\obj\Debug\net5.0\Param.net.csproj.AssemblyReference.cache
+C:\Users\cahes\source\repos\Param.net\Param.net\obj\Debug\net5.0\Param.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cahes\source\repos\Param.net\Param.net\obj\Debug\net5.0\Param.net.AssemblyInfoInputs.cache
+C:\Users\cahes\source\repos\Param.net\Param.net\obj\Debug\net5.0\Param.net.AssemblyInfo.cs
+C:\Users\cahes\source\repos\Param.net\Param.net\obj\Debug\net5.0\Param.net.csproj.CoreCompileInputs.cache
+C:\Users\cahes\source\repos\Param.net\Param.net\obj\Debug\net5.0\Param.net.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cahes\source\repos\Param.net\Param.net\obj\Debug\net5.0\Param.net.MvcApplicationPartsAssemblyInfo.cache
