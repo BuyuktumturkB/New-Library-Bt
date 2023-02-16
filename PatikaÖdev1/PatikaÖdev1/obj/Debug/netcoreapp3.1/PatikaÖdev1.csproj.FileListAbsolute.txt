@@ -1,0 +1,14 @@
+C:\Users\cahes\source\repos\PatikaÖdev1\PatikaÖdev1\bin\Debug\netcoreapp3.1\PatikaÖdev1.exe
+C:\Users\cahes\source\repos\PatikaÖdev1\PatikaÖdev1\bin\Debug\netcoreapp3.1\PatikaÖdev1.deps.json
+C:\Users\cahes\source\repos\PatikaÖdev1\PatikaÖdev1\bin\Debug\netcoreapp3.1\PatikaÖdev1.runtimeconfig.json
+C:\Users\cahes\source\repos\PatikaÖdev1\PatikaÖdev1\bin\Debug\netcoreapp3.1\PatikaÖdev1.runtimeconfig.dev.json
+C:\Users\cahes\source\repos\PatikaÖdev1\PatikaÖdev1\bin\Debug\netcoreapp3.1\PatikaÖdev1.dll
+C:\Users\cahes\source\repos\PatikaÖdev1\PatikaÖdev1\bin\Debug\netcoreapp3.1\PatikaÖdev1.pdb
+C:\Users\cahes\source\repos\PatikaÖdev1\PatikaÖdev1\obj\Debug\netcoreapp3.1\PatikaÖdev1.AssemblyInfoInputs.cache
+C:\Users\cahes\source\repos\PatikaÖdev1\PatikaÖdev1\obj\Debug\netcoreapp3.1\PatikaÖdev1.AssemblyInfo.cs
+C:\Users\cahes\source\repos\PatikaÖdev1\PatikaÖdev1\obj\Debug\netcoreapp3.1\PatikaÖdev1.csproj.CoreCompileInputs.cache
+C:\Users\cahes\source\repos\PatikaÖdev1\PatikaÖdev1\obj\Debug\netcoreapp3.1\PatikaÖdev1.dll
+C:\Users\cahes\source\repos\PatikaÖdev1\PatikaÖdev1\obj\Debug\netcoreapp3.1\PatikaÖdev1.pdb
+C:\Users\cahes\source\repos\PatikaÖdev1\PatikaÖdev1\obj\Debug\netcoreapp3.1\PatikaÖdev1.genruntimeconfig.cache
+C:\Users\cahes\source\repos\PatikaÖdev1\PatikaÖdev1\obj\Debug\netcoreapp3.1\PatikaÖdev1.csproj.AssemblyReference.cache
+C:\Users\cahes\source\repos\PatikaÖdev1\PatikaÖdev1\obj\Debug\netcoreapp3.1\PatikaÖdev1.GeneratedMSBuildEditorConfig.editorconfig
